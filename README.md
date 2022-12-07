@@ -50,7 +50,7 @@ For learning TDD & Clean Architecture purposes
 
 - [ ] Question Endpoint
 - [ ] Answer Endpoint
-- [ ] API Key
+- [ ] API Key (Security)
 
 ## :rocket: Technologies ##
 
